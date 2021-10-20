@@ -1,0 +1,28 @@
+body {
+	background-image: linear-gradient;
+	background-color: darkblue;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+div{
+	background-color: red;
+	padding: 20px;
+
+}
+
+#one{
+	color: white;
+	padding: 10px;
+	text-align: left;
+}
+
+p{
+	color: red;
+	text-align: center;
+	font-style: family;
+}
+
