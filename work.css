@@ -1,0 +1,50 @@
+body {
+	background-image: linear-gradient;
+	background-color: grey;
+}
+div{
+	background-color: red;
+
+}
+
+#one{
+	color: white;
+	padding: 10px;
+	text-align: left;
+}
+
+h1{
+	color: white;
+	text-align: center;
+}
+
+#five{
+	background-color: grey;
+	text-align: center;
+}
+
+.week{
+	text-align: center;
+
+}
+
+hr{
+	color: red;
+}
+
+#six{
+	padding: 10px;
+	background-color: grey;
+}
+
+#seven{
+	background-color: grey;
+	color: white;
+}
+
+#two{
+	background-color: red;
+	padding: 20px;
+	
+
+}

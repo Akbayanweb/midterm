@@ -1,0 +1,48 @@
+body {
+	background-image: linear-gradient;
+	background-color: darkblue;
+}
+
+
+
+div{
+	background-color: red;
+	padding: 20px;
+
+}
+
+#one{
+	color: white;
+	padding: 10px;
+	text-align: left;
+}
+
+p{
+	color: white;
+    text-align: center;
+    text-decoration: underline;
+    text-size: 20px;
+}
+
+#three{
+	background-color: darkblue;
+}
+
+img{
+	width: 400px;
+	padding: 10px;
+}
+
+#four{
+	background-color: darkblue;
+}
+
+#four{
+	width: 400px;
+	padding: 10px;
+}
+
+button{
+	background-color: grey;
+	text-align: center;
+}
